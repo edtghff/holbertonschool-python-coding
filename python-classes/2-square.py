@@ -32,7 +32,9 @@ if __name__ == "__main__":
         print(e)
 
     my_square_2 = Square(5)
-    print("Area: {}".format(my_square_2.area()))#!/usr/bin/python3
+    print("Area: {}".format(my_square_2.area()))
+    
+#!/usr/bin/python3
 """This module defines a Square class."""
 
 
